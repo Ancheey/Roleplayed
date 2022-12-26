@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Roleplayed:jar">
+    <output-path>H:/Spigot/plugins</output-path>
+    <root id="archive" name="Roleplayed.jar">
+      <element id="module-output" name="Roleplayed" />
+    </root>
+  </artifact>
+</component>
